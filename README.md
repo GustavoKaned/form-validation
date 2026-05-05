@@ -1,7 +1,7 @@
 # 📄 Form Validation Project
 
 ## 💻 Description
-A simple form validation project built with HTML, CSS, and JavaScript. It validates user input for name and email fields, providing real-time visual feedback by changing input border colors. This project demonstrates basic front-end skills such as DOM manipulation, input validation, and user interaction.
+A simple form validation project built with HTML and JavaScript. It validates user input for name and email fields, providing real-time visual feedback by changing input border colors. This project demonstrates basic front-end skills such as DOM manipulation, input validation, and user interaction.
 
 ## 🚀 Technologies
 - HTML
