@@ -5,7 +5,6 @@ A simple form validation project built with HTML, CSS, and JavaScript. It valida
 
 ## 🚀 Technologies
 - HTML
-- CSS
 - JavaScript
 
 ## 📦 Features
